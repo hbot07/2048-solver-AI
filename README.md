@@ -21,5 +21,6 @@ Trials with max tile of 512: 10 %
 Trials with max tile of 1024: 50 %  
 Trials with max tile of 2048: 30 %  
 Trials with max tile of 4096: 10 %    
+### Result of two Runs:
 ![image](https://user-images.githubusercontent.com/46916990/79738523-7dbabd80-831a-11ea-8df4-eb1cfee3e309.png)
 
